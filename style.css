@@ -183,8 +183,4 @@ footer {
     font-size: 18px;
     font-weight: 500;
 }
-.product {
-    opacity: 0;
-    transform: translateY(50px);
-    transition: all 0.6s ease-in-out;
-}
+
